@@ -6,3 +6,7 @@ Accept: application/json
 ###
 
 GET http://localhost:5036/WeatherForecast
+
+###
+
+GET http://localhost:8080/api/weatherforecast
